@@ -6,7 +6,7 @@ I am a full-stack web developer just getting started! Graduate of the Georgia Te
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [MyPortfolio](http://ericwittenstein.github.io/MyPortfolio)
 * ✉️  You can contact me at [eric.wittenstein@gmail.com](mailto:eric.wittenstein@gmail.com)
-* 🚀  I'm currently working on [inprog](http://inprog)
+* 🚀  I'm currently working on refreshing and refining my Java skills!
 * 🧠  I'm learning Full-Stack Development
 * 🤝  I'm open to collaborating on Anything and everything!
 * ⚡  3D Printing hobbyist, sports fan, animal lover!
