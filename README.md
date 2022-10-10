@@ -1,7 +1,7 @@
 Hi 👋 My name is Eric Wittensteitn
 ==================================
 
-I am a full-stack web developer just getting started! Graduate of the Georgia Tech Coding Bootcamp and UNC-CH undergrad program, I have a background in education and a passion for technology. I love making things more efficient, solving problems, and passing on whatever I know to others so we can all grow and learn together!
+I am a full-stack web developer, specializing in JavaScript and back-end development! Graduate of the Georgia Tech Coding Bootcamp and UNC-CH undergrad program, I have a background in education and a passion for technology. I love making things more efficient, solving problems, and passing on whatever I know to others so we can all grow and learn together!
 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [MyPortfolio](http://ericwittenstein.github.io/MyPortfolio)
