@@ -55,6 +55,6 @@ src="https://img.shields.io/github/followers/ericwittenstein?logo=github&style=f
 
 <div width="100%" align="center"><a href="https://github.com/ericwittenstein/Stay-In-Touch-Social-Network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=Stay-In-Touch-Social-Network&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ericwittenstein/tech-news-java-api-2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=tech-news-java-api-2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/ericwittenstein/README-Generator-v1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=README-Generator-v1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ericwittenstein/Inventory_Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=Inventory_Management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
