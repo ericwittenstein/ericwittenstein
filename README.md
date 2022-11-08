@@ -4,14 +4,13 @@ Hi 👋 My name is Eric Wittensteitn
 Full Stack Web Developer
 ------------------------
 
-I am a full-stack web developer, specializing in JavaScript and back-end development! Graduate of the Georgia Tech Coding Bootcamp and UNC-CH undergrad program, I have a background in education and a passion for technology. I love making things more efficient, solving problems, and passing on whatever I know to others so we can all grow and learn together!
+I am a full stack web developer with a passion for making things! Graduate of the Georgia Tech Coding Bootcamp and the University of North Carolina at Chapel Hill, I have a background in education and a passion for technology. I love making things more efficient, solving problems, and passing on whatever I know to others so we can all grow and learn together!
 
 * 🌍  I'm based in Atlanta, GA
 * 🖥️  See my portfolio at [MyPortfolio](http://ericwittenstein.github.io/MyPortfolio)
 * ✉️  You can contact me at [eric.wittenstein@gmail.com](mailto:eric.wittenstein@gmail.com)
-* 🚀  I'm currently working on refreshing and refining my Java skills!
-* 🧠  I'm learning Full-Stack Web Development and Java
-* 🤝  I'm open to collaborating on Anything and everything!
+* 🧠  I'm currently learning more SQL!
+* 🤝  I'm open to collaborating on anything and everything!
 * ⚡  3D Printing hobbyist, sports fan, animal lover!
 
 <a href="https://www.github.com/ericwittenstein" target="_blank" rel="noreferrer"><img
@@ -23,6 +22,7 @@ src="https://img.shields.io/github/followers/ericwittenstein?logo=github&style=f
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -38,12 +38,13 @@ src="https://img.shields.io/github/followers/ericwittenstein?logo=github&style=f
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Ericwatl#0066" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/e.witt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ericwittenstein" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ericwittenstein/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Ericwatl#0066" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/e.witt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ericwittenstein" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ericwittenstein/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/eric-wittenstein" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -63,4 +64,4 @@ src="https://img.shields.io/github/followers/ericwittenstein?logo=github&style=f
 
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/ericwittenstein/README-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=README-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ericwittenstein/Inventory_Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=Inventory_Management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/ericwittenstein/Borderlands-3-Tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=Borderlands-3-Tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ericwittenstein/Inventory_Management" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericwittenstein&repo=Inventory_Management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
